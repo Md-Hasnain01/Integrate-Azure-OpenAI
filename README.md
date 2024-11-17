@@ -40,3 +40,12 @@ AZURE_OAI_DEPLOYMENT=
 
 ##  Configuration
 You can customize the chatbot's behavior by modifying the system_message in the `Azure-OpenAi.py` file. This message dictates how the bot responds to user queries. Feel free to adjust it to better suit your needs!
+
+## Usage
+
+To run the chatbot, execute the following command in your terminal:
+```
+python Azure-OpenAi.py
+```
+
+You will be prompted to enter a location or type 'quit' to exit the chatbot. The bot will provide hiking recommendations based on your input.
