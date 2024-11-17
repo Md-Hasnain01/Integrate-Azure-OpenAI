@@ -34,3 +34,9 @@ AZURE_OAI_DEPLOYMENT=
 
 ## OUTPUT
 
+![Screenshot 2024-11-17 163246](https://github.com/user-attachments/assets/d3d0d1e9-6e4b-42d8-a8b6-3a5ccd416b8c)
+
+![Screenshot 2024-11-17 163349](https://github.com/user-attachments/assets/0bdfec86-30f1-47c5-90d4-7248bc0f1847)
+
+##  Configuration
+You can customize the chatbot's behavior by modifying the system_message in the main.py file. This message dictates how the bot responds to user queries. Feel free to adjust it to better suit your needs!
