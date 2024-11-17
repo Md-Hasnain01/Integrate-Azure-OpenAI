@@ -39,4 +39,4 @@ AZURE_OAI_DEPLOYMENT=
 ![Screenshot 2024-11-17 163349](https://github.com/user-attachments/assets/0bdfec86-30f1-47c5-90d4-7248bc0f1847)
 
 ##  Configuration
-You can customize the chatbot's behavior by modifying the system_message in the Azure-openAi.py file. This message dictates how the bot responds to user queries. Feel free to adjust it to better suit your needs!
+You can customize the chatbot's behavior by modifying the system_message in the `Azure-OpenAi.py` file. This message dictates how the bot responds to user queries. Feel free to adjust it to better suit your needs!
